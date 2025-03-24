@@ -1,0 +1,1 @@
+This is an attempt to review essential ML concepts. My approach is to read ML papers, and implement them in PyTorch. After covering basics, I intend to move on to LLM related papers. Apart from implementing them, I will try to think about and implement possible improvements.
